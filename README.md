@@ -24,12 +24,6 @@ I am currently a **self-taught** learner preparing to pursue **Data Science** at
 
 ---
 
-### 💡 My Side Projects:
-- I enjoy creating **web applications**. Some projects include:
-  - A portfolio website built with **Next.js**.
-
----
-
 ### 💪 What Drives Me:
 I am a **hard-working** and self-motivated individual. I strive to make consistent progress every day. I'm always on the lookout for:
 - 🔍 **Opportunities** to collaborate on projects, learn from others, and improve my skills.
@@ -38,7 +32,7 @@ I am a **hard-working** and self-motivated individual. I strive to make consiste
 ---
 
 ### 📫 How to Reach Me:
-- [Email]patrikmojzis26@gmail.com
+- patrikmojzis26@gmail.com
   
 ---
 
