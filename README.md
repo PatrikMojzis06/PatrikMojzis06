@@ -1,39 +1,39 @@
 # 👋 Hi, I'm Patrik Mojžíš!
 
-I am currently a **self-taught** learner, accepted to enter Czech Technical University in Prague to study Informatics. I am deeply interested in **Data science**, specifically in **data ingeneering** and **machine learning**. I am always looking for opportunities to grow and collaborate.
+I'm a **self-taught** learner, soon to be a student of Informatics at the Czech Technical University in Prague. My passion lies in **Data Science**, particularly **data engineering** and **machine learning**. I'm actively seeking opportunities to grow and collaborate.
 
 ---
 
-### 🚀 What I'm Focusing On:
-- 📊 **Data Science**: As a future student of data science, I am laying a strong foundation in statistics, algorithms, and data manipulation techniques.
-- 🤖 **Machine Learning**: Passionate about exploring machine learning algorithms, creating data pipelines and incroporating them into  and their applications in real-world problems.
-- 🌐 **Data engineering**: I love working with large datasets, manipulate and trasform data, optimize them and create reliable solutions to send them accross environments.
+### 🚀 My Focus:
+- 📊 **Data Science**: Building a strong foundation in statistics, algorithms, and data manipulation techniques as I prepare for my studies.
+- 🤖 **Machine Learning**: Exploring algorithms, designing data pipelines, and implementing them in real-world applications.
+- 🌐 **Data Engineering**: Enjoying the challenge of working with large datasets, transforming data, optimizing processes, and building reliable solutions for data flow across environments.
 
 ---
 
-### 🛠️ Technologies & Tools I am familiar with:
+### 🛠️ Technologies & Tools:
 - **Languages**: Python, JavaScript, TypeScript, SQL, Lisp, HTML, CSS
-- **Libraries/Frameworks**: Pandas, Numpy, Matplotlib, Scikit-learn, FastAPI, Next.js, TailwindCSS, React
+- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, FastAPI, Next.js, TailwindCSS, React
 - **Tools**: VS Code, Jupyter Notebook, PyCharm, Vercel, Git, Docker, Google Cloud
 
 ---
 
-### 🌱 I’m Learning:
-- **Machine Learning**: Regression and classification tasks (and whole MLOps), neural networks and deep learning
-- **Data Engineering**: Understanding how data is processed, transformed, and scaled for real world projects.
+### 🌱 Currently Learning:
+- **Machine Learning**: Regression and classification (including MLOps), neural networks, and deep learning.
+- **Data Engineering**: Deepening my understanding of data processing, transformation, and scalability for production projects.
 
 ---
 
 ### 💪 What Drives Me:
-I am a **hard-working** individual, keeping up to date with modern data science solutions and looking for any opportunity to connect my knowledge with real life projects. I strive to make consistent progress every day. I'm always on the lookout for:
-- 🔍 **Opportunities** to collaborate on projects, learn from others, and improve my skills.
+I'm a **dedicated** individual, committed to staying current with modern data science solutions and eager to apply my knowledge to practical projects. I strive for consistent daily progress. I'm always looking for:
+- 🔍 **Opportunities** to collaborate, learn from others, and enhance my skills.
 - 🌟 **Challenges** that push me outside my comfort zone.
 
 ---
 
-### 📫 How to Reach Me:
+### 📫 Let's Connect:
 - patrikmojzis26@gmail.com
-  
+  
 ---
 
-Thank you for visiting my profile! 😊 Feel free to reach out if you'd like to collaborate or discuss ideas.
+Thanks for visiting! 😊 Feel free to reach out to collaborate or discuss ideas.
