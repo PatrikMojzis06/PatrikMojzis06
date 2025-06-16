@@ -13,8 +13,8 @@ I'm a **self-taught** learner, soon to be a student of Informatics at the Czech 
 
 ### 🛠️ Technologies & Tools:
 - **Languages**: Python, JavaScript, TypeScript, SQL, Lisp, HTML, CSS
-- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, FastAPI, Next.js, TailwindCSS, React
-- **Tools**: VS Code, Jupyter Notebook, PyCharm, Vercel, Git, Docker, Google Cloud
+- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, LightGBM, scipy, FastAPI, Next.js, TailwindCSS, React
+- **Tools**: VS Code, Jupyter Notebook, PyCharm, Vercel, Git, Docker, Google Cloud, Hugging Face Spaces, Zed, Notion
 
 ---
 
